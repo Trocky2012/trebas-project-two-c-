@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1656252808 source:c:\users\thiag\onedrive\Área de trabalho\trebas\mod-2\final_project_2\trebas-project-two\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<algorithm>
+	<stdio.h>
+	<list>
+	"fcn/functions.h"
+	"fcn/api.h"
+
+1656252843 c:\users\thiag\onedrive\Área de trabalho\trebas\mod-2\final_project_2\trebas-project-two\fcn\functions.h
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<string>
+
+1656252385 c:\users\thiag\onedrive\Área de trabalho\trebas\mod-2\final_project_2\trebas-project-two\fcn\api.h
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<string>
+
